@@ -46,6 +46,12 @@ html {
   background-color: #522806;
 }
 
+.banner-content a:focus {
+
+  outline-color: #fff;
+
+}
+
 .card {
   min-height: 22em;
   border: .3rem solid #bea59b;
